@@ -2,9 +2,9 @@
 
 **Langchain_Chat_With_Your_Data_SFBU_text** is a sophisticated Jupyter Notebook designed to demonstrate the integration of LangChain with OpenAI's API, enabling the development of a stateful, retrieval-augmented chat application. This project showcases how to dynamically interact with structured and unstructured data through conversational AI, combining the power of large language models (LLMs) with state-of-the-art retrieval techniques for enhanced query answering.
 
-## Overview
+## Presentation
 
-The notebook takes you through the steps of setting up your environment, selecting the appropriate language model based on the current date, and initializing a conversation with OpenAI's ChatGPT model at zero temperature for deterministic outputs. It further demonstrates how to process large texts, utilize vector stores for efficient data retrieval, and manage a conversational state across multiple interactions.
+View presentation [PDF file](https://drive.google.com/file/d/1DwagNwkgtrK1UbtGwLtfSVOi598XE16n/view?usp=sharing)
 
 ### Process Explanation
 
